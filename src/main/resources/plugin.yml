@@ -1,0 +1,5 @@
+name: BonemealFancyTrees
+version: 1.0
+author: Noverita
+main: me.noverita.fancytrees.BonemealFancyTrees
+api-version: 1.13
